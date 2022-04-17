@@ -1,6 +1,4 @@
-numpy
-ipywidgets
-nbinteract
-sympy
-matplotlib
-math
+numpy==1.21.2
+ipywidgets==7.5.1
+sympy==1.6.2
+matplotlib==3.4.3
