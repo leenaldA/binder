@@ -1,0 +1,6 @@
+{
+  "VoilaConfiguration": {
+    "theme": "dark",
+	strip_sources = False
+  }
+}
