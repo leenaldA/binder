@@ -1,6 +1,6 @@
 # binder
 
-Repo kernel:
+Open repo in Jupyterlab:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leenaldA/binder/HEAD)
 
 Distillation notebook:
